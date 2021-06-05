@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a CS undergrad, a full-stack dev and fun loving guy!
+I am also on [LinkedIn](https://linkedin.com/in/namanmonga)
 <!--
 **Naman-Monga/Naman-Monga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
