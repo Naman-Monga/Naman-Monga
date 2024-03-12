@@ -1,3 +1,3 @@
 <h2>Hi 👋, I'm Naman!</h2>
-<h4>I like to make things that delight people.</h4>
-<h4>Tech I've worked on - Java , Golang, Ruby on Rails, Django, Cloud, Kafka, Redis, Docker, etc.</h4>
+<h4>I love to make things to delight and enable.</h4>
+<h4>I'm AWS Certified(Dev) and have built backend systems from mvps for stealth mode startups, all the up to robust and highly performant large scale services. Always open to new ideas and opportunities.</h4>
